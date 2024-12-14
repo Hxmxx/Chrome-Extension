@@ -12,7 +12,7 @@
 
 1. 이 저장소를 클론합니다:
     ```bash
-    git clone https://github.com/Hxmxx/Chrome-Extension.git
+    git clone https://github.com/Hxmxx/TF-IDF-Extenstion.git
     ```
 
 2. Chrome 브라우저에서 `chrome://extensions/`로 이동합니다.
