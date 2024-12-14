@@ -55,4 +55,4 @@
 
 - Github: [Hxmxx](https://github.com/Hxmxx)
 - Email: chohamin0611@gmail.com
-- Instagram: [@hxmxx._] (https://www.instagram.com/hxmxx._/)
+- Instagram: [@hxmxx._](https://www.instagram.com/hxmxx._/)
