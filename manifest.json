@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "TF-IDF 하이라이팅",
+  "version": "1.0",
+  "permissions": [
+      "activeTab"
+  ],
+  "content_scripts": [
+      {
+            "matches": ["<all_urls>"],
+            "js": ["index.js"]
+      }
+    ]
+}
