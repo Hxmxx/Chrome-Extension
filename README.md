@@ -53,5 +53,6 @@
 
 ## 연락처
 
-- [Hxmxx](https://github.com/Hxmxx)
+- Github: [Hxmxx](https://github.com/Hxmxx)
 - Email: chohamin0611@gmail.com
+- Instagram: [@hxmxx._] (https://www.instagram.com/hxmxx._/)
